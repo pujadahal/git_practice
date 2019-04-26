@@ -1,0 +1,22 @@
+/*Removes any prexisting padding or marginal space from the html and body elements.*/
+
+html body {
+	box-sizing: border-box;
+	height: 300px;
+	width: 400px;
+	margin: auto;
+	padding: 50px;
+	/*Remove this background-color! It is here to make sure that the css and html are linked.*/
+	background-color: #808080;
+	border: 5px dotted yellow;
+
+
+	
+
+}
+
+/*Remove this h1 Rule! */
+
+h1 {
+	
+}
